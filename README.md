@@ -1,2 +1,2 @@
-# TugasDepin5
-TugasDepin5
+# Admin-Landing-Page-jQuery-Exercise-
+Admin Landing Page jQuery (Exercise)
